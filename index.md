@@ -1,5 +1,4 @@
 ---
-title: Under Construction!
+title: Welcome to my blog
 ---
 
-This is just an example and test!
